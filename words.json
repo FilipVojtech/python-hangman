@@ -1,0 +1,10 @@
+{ "_id" : { "$oid" : "6080a27f9d18faaedd8e94cf" }, "word" : "databank", "difficulty" : "2" }
+{ "_id" : { "$oid" : "60901fe132da782fb9a90f20" }, "word" : "word", "difficulty" : 1 }
+{ "_id" : { "$oid" : "60901fe132da782fb9a90f22" }, "word" : "dragon", "difficulty" : 2 }
+{ "_id" : { "$oid" : "60901fe132da782fb9a90f23" }, "word" : "arms", "difficulty" : 1 }
+{ "_id" : { "$oid" : "60901fe132da782fb9a90f24" }, "word" : "eyelid", "difficulty" : 2 }
+{ "_id" : { "$oid" : "60907604c639edce54e89972" }, "word" : "python", "difficulty" : 2 }
+{ "_id" : { "$oid" : "60907604c639edce54e89973" }, "word" : "mongodb", "difficulty" : 2 }
+{ "_id" : { "$oid" : "60907604c639edce54e89974" }, "word" : "javascript", "difficulty" : 3 }
+{ "_id" : { "$oid" : "60907604c639edce54e89975" }, "word" : "mysql", "difficulty" : 2 }
+{ "_id" : { "$oid" : "60907604c639edce54e89976" }, "word" : "creativehill", "difficulty" : 3 }
