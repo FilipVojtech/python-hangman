@@ -7,4 +7,3 @@
 { "_id" : { "$oid" : "60907604c639edce54e89973" }, "word" : "mongodb", "difficulty" : 2 }
 { "_id" : { "$oid" : "60907604c639edce54e89974" }, "word" : "javascript", "difficulty" : 3 }
 { "_id" : { "$oid" : "60907604c639edce54e89975" }, "word" : "mysql", "difficulty" : 2 }
-{ "_id" : { "$oid" : "60907604c639edce54e89976" }, "word" : "creativehill", "difficulty" : 3 }
